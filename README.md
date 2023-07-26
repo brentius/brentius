@@ -2,8 +2,9 @@
 
 <!--
 **brentius/brentius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+###🖥️Some things about me:
 
 - 🔭 I’m currently working on b-flat, a homebrew programming language
 - 🌱 I’m currently learning C++ and Assembly.
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 - ❓ Ask me about just about anything!
 - 📫 How to reach me: Email me at brentyee28@gmail.com or contact me on Discord (@brentius).
 - 😄 Pronouns: they/them
--->
+
 
 ### 💬 Languages I know :
 <div>
