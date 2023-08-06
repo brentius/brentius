@@ -4,11 +4,11 @@
 **brentius/brentius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 🖥️Some things about me:
+### 🖥️ Some things about me:
 
 - 🔭 I’m currently working on b-flat, a homebrew programming language
 - 🌱 I’m currently learning C++ and Assembly.
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on Python projects- see below for how to contact me!
 - 🤔 I’m looking for help with AI and Machine Learning.
 - ❓ Ask me about just about anything!
 - 📫 How to reach me: Email me at brentyee28@gmail.com or contact me on Discord (@brentius).
@@ -28,4 +28,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brentius&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brentius&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-I know what my commit graoh looks like, don't judge me.
+I know what my commit graph looks like, please don't judge me.
