@@ -1,7 +1,3 @@
 ### Hi there 👋
 
-Hi! I'm a 14 year old student in the UK.
-
-🚀 I'm interested in rockets- I have a L1 certification from the UKRA
-
-🤖 I'm currently working on Daedalus, a flight computer for HPR and for TVC rockets.
+Hi! I'm a 15 year old student in the UK. Currently working on an algorithmic trading bot.
